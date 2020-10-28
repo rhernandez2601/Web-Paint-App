@@ -34,7 +34,6 @@ function draw(e)  {
     ctx.stroke();
 }
 
-
 window.addEventListener("resize", resize);
 
 document.addEventListener("mousemove", draw);
